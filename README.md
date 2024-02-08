@@ -22,3 +22,6 @@ Before feeding the data into our models, it underwent preprocessing to make it s
 - **Feature Scaling:** Scaling features to a specific range for better convergence in machine learning models.
 
 Feel free to explore the Jupyter Notebook or Python script in the `src` directory for a detailed walkthrough of the data cleaning and preprocessing steps.
+
+```bash
+   pip install numpy
